@@ -15,7 +15,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "xihrni\\yii2-behavior-time\\": "src/"
+            "xihrni\\yii2\\behaviors\\": "src/"
         }
     }
 }
