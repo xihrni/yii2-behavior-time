@@ -1,0 +1,21 @@
+{
+    "name": "xihrni/yii2-behavior-time",
+    "description": "For automatic updating of database table creation, update, and delete fields in the model.",
+    "keywords": ["yii2", "behavior", "model", "time"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "authors": [
+        {
+            "name": "xihrni",
+            "email": "xihrni@126.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "xihrni\\yii2-behavior-time\\": "src/"
+        }
+    }
+}
